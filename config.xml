@@ -14,7 +14,7 @@
        asdasdasads
     </description>
 
-    <preference name="phonegap-version" value="6.1.2" />
+    <preference name="phonegap-version" value="cli-6.4.0" />
 	<preference name="orientation" value="landscape" />
 	
     <author href="https://build.phonegap.com" email="nyeto@hotmail.com">
