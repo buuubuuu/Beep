@@ -14,7 +14,7 @@
        asdasdasads
     </description>
 
-    <preference name="phonegap-version" value="cli-6.4.0" />
+    <preference name="phonegap-version" value="3.5.0" />
 	<preference name="orientation" value="landscape" />
 	
     <author href="https://build.phonegap.com" email="nyeto@hotmail.com">
@@ -22,7 +22,7 @@
     </author>
 	
 
-	<plugin name="cordova-plugin-vibration" spec="1.0.0" source="pgb" />
+	<plugin name="cordova-plugin-vibration" source="npm" spec="&gt;1.0.0" />
 
 
 
