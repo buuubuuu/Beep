@@ -22,7 +22,7 @@
     </author>
 	
 
-	<plugin name="cordova-plugin-vibration" source="npm" spec="&gt;1.1.0" />
+	<plugin name="cordova-plugin-vibration" source="npm" spec="1.1.0" />
 
 
 </widget>
