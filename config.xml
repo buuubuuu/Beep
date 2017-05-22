@@ -22,7 +22,7 @@
     </author>
 	
 
-	<plugin name="org.apache.cordova.vibration" spec="0.3.13" source="pgb" />
+	<plugin name="org.apache.cordova.vibration" spec="&gt;0.3.13" source="pgb" />
 
 
 </widget>
